@@ -1,0 +1,11 @@
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\ForEach.deps.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\ForEach.runtimeconfig.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\ForEach.runtimeconfig.dev.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\ForEach.dll
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\ForEach.pdb
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.AssemblyInfo.cs
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.dll
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\ForEach.pdb

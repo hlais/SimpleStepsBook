@@ -1,0 +1,11 @@
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\SimpleSteps.deps.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\SimpleSteps.runtimeconfig.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\SimpleSteps.runtimeconfig.dev.json
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\SimpleSteps.dll
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\bin\Debug\netcoreapp2.0\SimpleSteps.pdb
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.AssemblyInfoInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.AssemblyInfo.cs
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.dll
+C:\Users\Isolated Gamerz\source\repos\ForEach\ForEach\obj\Debug\netcoreapp2.0\SimpleSteps.pdb
