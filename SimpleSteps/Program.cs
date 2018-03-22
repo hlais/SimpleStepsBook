@@ -7,7 +7,7 @@ namespace SimpleSteps
         static void Main(string[] args)
         {
 
-            Arithmetic._Arithemtic();
+            AssigningValues.Assign();
             Console.ReadLine();
         }
     }
