@@ -7,7 +7,7 @@ namespace SimpleSteps
         static void Main(string[] args)
         {
 
-            Setting_Precedence.Precedence();
+            IteratingForEach.KeyValue();
 
 
             Console.ReadLine();
