@@ -7,7 +7,9 @@ namespace SimpleSteps
         static void Main(string[] args)
         {
 
-            IteratingForEach.KeyValue();
+            CreatingFunction.bodyTemp();
+            Console.WriteLine("Fahrinathit: + " + CreatingFunction.bodyTempF());
+            Console.WriteLine("Kelvin: " + CreatingFunction.bodyTempK());
 
 
             Console.ReadLine();
