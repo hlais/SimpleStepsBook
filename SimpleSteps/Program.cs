@@ -6,27 +6,15 @@ namespace SimpleSteps
     {
         static void Main(string[] args)
         {
-
-
-            Refactoring_code.computeFactorials(1, 8);
-
-
-
+            FindingSubstrings.Substrings();
 
             Console.ReadLine();
-        }
 
-        private static void AddNumber(int first, AClass second)
+
+        }
+        public class AClass
         {
-            second.Avalue = first;
-
-           
+            public int Avalue { get; set; }
         }
-
-
-    }
-    public class AClass
-    {
-        public int Avalue { get; set; }
     }
 }
