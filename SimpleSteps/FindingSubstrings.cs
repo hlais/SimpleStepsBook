@@ -20,11 +20,11 @@ namespace SimpleSteps
             char[] arr = new char[sub.Length];
             sub.CopyTo(0, arr, 0, sub.Length);
 
-            //seek first occurance of substring 
+            //IndexOf -left to right- seeks first occurance of substring 
             int pos = text.IndexOf(sub);
             report(pos, sub);
 
-            //seek last occurence of substring
+            //LastIndexOf - right to left- seek last occurence of substring, still using first letter of substring
             pos = text.LastIndexOf(sub);
             report(pos, sub);
 
@@ -36,8 +36,7 @@ namespace SimpleSteps
             pos = text.LastIndexOfAny(arr);
             report(pos, text.Substring(pos, 1));
 
-                 
-           
+
 
         }
        static void report(int pos, string sub)

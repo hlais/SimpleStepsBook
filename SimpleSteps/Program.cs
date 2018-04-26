@@ -6,7 +6,7 @@ namespace SimpleSteps
     {
         static void Main(string[] args)
         {
-            FindingSubstrings.Substrings();
+            FormatStrings.Format();
 
             Console.ReadLine();
 
