@@ -1,20 +1,21 @@
 ﻿using System;
+using System.Threading;
 
 namespace SimpleSteps
 {
     class Program
     {
+        
+
         static void Main(string[] args)
         {
-            FormatStrings.Format();
+            AppendingToFile.AppendText();
+           
 
+        
+
+  
             Console.ReadLine();
-
-
-        }
-        public class AClass
-        {
-            public int Avalue { get; set; }
         }
     }
 }
