@@ -9,7 +9,7 @@ namespace SimpleSteps
 
         static void Main(string[] args)
         {
-            AppendingToFile.AppendText();
+            WriteStream.WrittingStream();
            
 
         
