@@ -9,6 +9,7 @@ namespace SimpleSteps
 
         static void Main(string[] args)
         {
+            ReadStream.ReadingStream();
             WriteStream.WrittingStream();
            
 
