@@ -5,17 +5,10 @@ namespace SimpleSteps
 {
     class Program
     {
-        
 
         static void Main(string[] args)
         {
-            ReadStream.ReadingStream();
-            WriteStream.WrittingStream();
-           
-
-        
-
-  
+            Run_TimeErros.RunTimeErrors();
             Console.ReadLine();
         }
     }
