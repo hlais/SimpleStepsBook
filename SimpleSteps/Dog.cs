@@ -4,10 +4,21 @@ using System.Text;
 
 namespace SimpleSteps
 {
-    class Dog
+    public class Dog
     {
         private string name, color;
         private int age;
+
+        //constructor that requires initiazation 
+        //public Dog(string name, string color, int age)
+        //{
+        //    this.name = name;
+        //    this.color = color;
+        //    this.age = age;
+
+        //}
+
+
 
         public void setValues(string name, int age, string color)
         {
