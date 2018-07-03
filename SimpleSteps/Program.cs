@@ -9,19 +9,35 @@ namespace SimpleSteps
         static void Main(string[] args)
         {
 
+            //hiding base methods
+            Man halim = new Man();
+            Hombre apeMan = new Hombre();
+            halim.speak();
+
+            halim.speak("I am a human too");
+
+            apeMan.speak("I am robot");
+
+            ((Man)apeMan).speak("Es una tarade hemosa");
 
 
 
-            Rectangle rect = new Rectangle();
-            Triangle cone = new Triangle();
 
-            rect.setValue(4, 5);
-            cone.setValue(4, 5);
-
-            Console.WriteLine("Area of Rectange :" +  rect.area());
-            Console.WriteLine("Area of Triangle: " + cone.area());
+            //calling base constructor
+            //Daughter nasima = new Daughter();
+            //Son halim = new Son();
+            //Son sadi = new Son(100);
 
 
+            //parent child class
+            //Rectangle rect = new Rectangle();
+            //Triangle cone = new Triangle();
+
+            //rect.setValue(4, 5);
+            //cone.setValue(4, 5);
+
+            //Console.WriteLine("Area of Rectange :" +  rect.area());
+            //Console.WriteLine("Area of Triangle: " + cone.area());
 
 
             //cat classes play with contructors 
