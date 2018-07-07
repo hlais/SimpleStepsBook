@@ -8,17 +8,35 @@ namespace SimpleSteps
 
         static void Main(string[] args)
         {
+            CabilityPigeon anja = new CabilityPigeon();
+            CabilityChicken halim = new CabilityChicken();
+            Caller call = new Caller();
+
+            call.describe(anja);
+            call.describe(halim);
+            
+
+            
+
+            
+
+            //overiding base methods
+            //Pigeon joey = new Pigeon();
+            //Chicken lola = new Chicken();
+            //describe(joey);
+            //describe(lola);  
+
 
             //hiding base methods
-            Man halim = new Man();
-            Hombre apeMan = new Hombre();
-            halim.speak();
+            //Man halim = new Man();
+            //Hombre apeMan = new Hombre();
+            //halim.speak();
 
-            halim.speak("I am a human too");
+            //halim.speak("I am a human too");
 
-            apeMan.speak("I am robot");
+            //apeMan.speak("I am robot");
 
-            ((Man)apeMan).speak("Es una tarade hemosa");
+            //((Man)apeMan).speak("Es una tarade hemosa");
 
 
 
@@ -69,6 +87,11 @@ namespace SimpleSteps
 
 
             Console.ReadLine();
+        }
+        static void describe(Bird obj)
+        {
+            obj.talk();
+            obj.fly();
         }
        
     }
